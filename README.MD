@@ -130,7 +130,7 @@ After the bot is created and all the systems are set up, you can search for the 
 ---
 
 ## Contributing to this project
-In most cases the most usefull way to contribute is to fork the repo and start working on it.
+In most cases the most useful way to use this project is to fork the repo and start working on it according to your organization's needs.
 But if you spot a bug or have a suggestion that would make this project better, please send a pull request.
 
 ---
