@@ -1,6 +1,10 @@
 # UA staying connected Telegram bot
 This is an open source project designed to help with creating a Telegram bot that help organizations stay connected with their people in Ukraine.
 To use it, please fork the repo as it will require some custom code to work.
+
+This project was developed to help us keep track of the company employees in Ukraine during those hard times.
+
+Proudly backed by [Bizzabo](https://www.bizzabo.com/).
 ## User flow
 
 ```mermaid
