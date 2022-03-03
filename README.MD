@@ -6,11 +6,6 @@ We developed this project to help us keep track of company employees in Ukraine 
 
 ---
 
-<img width="153" alt="Bizzabo" src="https://user-images.githubusercontent.com/6323368/156552563-fa96ece1-0f72-4f36-8244-0a46a82cc35f.png">
-Proudly backed by [Bizzabo](https://www.bizzabo.com)
-
----
-
 ## User flow
 
 ```mermaid
@@ -41,7 +36,7 @@ graph TD
     - If user clicks "Yes" - bot: "Do you want to share location?"
 
 - bot: "Thank you! stay safe!"
-
+---
 ## Persistency
 All of the responses are stored in a google sheet immidiately after the user responds (so even if the user answered some of the questions and had to stop the bot, the responses will be saved).
 
@@ -128,17 +123,29 @@ addOrUpdateSingleResponse({
 `value`: string | number | boolean
 
 
+---
 ## Usage
 After the bot is created and all the systems are set up, you can search for the bot in Telegram and start using it.
 
+---
 
-## Contributors
+## Contributing to this project
+In most cases the most usefull way to contribute is to fork the repo and start working on it.
+But if you spot a bug or have a suggestion that would make this project better, please send a pull request.
+
+---
+
+## Main Contributors
 Eran Goldin - [github](https://github.com/erango) / [linkedin](https://www.linkedin.com/in/eran-goldin-4463602b/)
 
 Gilad Solter - [github](https://github.com/gilad-solter) / [linkedin](https://www.linkedin.com/in/gilad-solter-566328102/)
 
 Omer Herera - [github](https://github.com/OmerHerera) / [linkedin](https://www.linkedin.com/in/omer-herera-15846a6/)
 
-## Contributing to this project
-In most cases the most usefull way to contribute is to fork the repo and start working on it.
-But if you spot a bug or have a suggestion that would make this project better, please send a pull request.
+---
+
+<img width="153" alt="Bizzabo" src="https://user-images.githubusercontent.com/6323368/156552563-fa96ece1-0f72-4f36-8244-0a46a82cc35f.png">
+
+Proudly backed by [Bizzabo](https://www.bizzabo.com)
+
+
