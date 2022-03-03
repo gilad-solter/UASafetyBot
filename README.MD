@@ -51,7 +51,7 @@ For this purpose, you can use a free service like Heroku or even serverless prov
 Prerequisites:
 - A Telegram account (this account will have nothing to do with the bot, it's just an account that will be used to create the bot)
 - Google account with access to the Google Sheets API (see Google API setup for Google-specific instructions)
-- Two pre-made spreadsheets, see example sheets and duplicate them
+- Two pre-made spreadsheets, see example sheets and duplicate them: sample [SUBSCRIBERS](https://docs.google.com/spreadsheets/d/1AJpSLmr_Zu9OvQuRMMmHDMsm1zKEuW61RolfpRSJmdg) and [MAIN DATA](https://docs.google.com/spreadsheets/d/1ZvYLkQZLO4KAhKB6IWdw93c2yWHDA5WwZ4rrRzUmkHk) sheets.
 
 ### Creating the bot
 1. Create a telegram bot by going to https://telegram.me/botfather and typing /newbot
