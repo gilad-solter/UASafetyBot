@@ -60,7 +60,7 @@ Prerequisites:
 ### Google API instructions
 1. Create a new project in the Google Cloud Console
 2. Enable the Sheets API for this project
-3. Create new Credentials: Service Account Key
+3. Create new Credentials: Service Account Key. You will be able to download the JSON keyfile, which you will then encode to Base64 (UTF8, using any online tool) and store in an environment variable named `GOOGLE_SERVICE_KEY`.
 4. Note the service account's email address
 5. Make sure you have the two spreadsheets ready, as per the example sheets
 6. Share the two spreadsheets with the service account's email (you'll be asked if it's OK to share outside your organization -- it's fine)
