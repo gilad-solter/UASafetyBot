@@ -2,9 +2,15 @@
 This is an open source project designed to help with creating a Telegram bot that help organizations stay connected with their people in Ukraine.
 To use it, please fork the repo as it will require some custom code to work.
 
-This project was developed to help us keep track of the company employees in Ukraine during those hard times.
+We developed this project to help us keep track of company employees in Ukraine during those hard times, and give them an easy way to report if they are safe and whether or not they need assistance.
 
-Proudly backed by [Bizzabo](https://www.bizzabo.com/).
+---
+
+<img width="153" alt="Bizzabo" src="https://user-images.githubusercontent.com/6323368/156552563-fa96ece1-0f72-4f36-8244-0a46a82cc35f.png">
+Proudly backed by [Bizzabo](https://www.bizzabo.com)
+
+---
+
 ## User flow
 
 ```mermaid
